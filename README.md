@@ -1,4 +1,4 @@
-Welcome to my GitHub profile.
+## Hi there! Welcome to my GitHub profile.
 
 This space serves as a central hub for my professional and academic work, chronicling my progression toward a career in Machine Learning and Artificial Intelligence.
 
@@ -6,28 +6,13 @@ Here you will find:
 * An **academic archive** containing relevant coursework and materials from my B.Sc. in Machine Learning and Data Science and my current M.Sc. in Computer Science at the University of Copenhagen (DIKU).
 * A **record of my ongoing development** and personal experimentation with new technologies in the AI landscape.
 
----
-
-## 📫 Connect With Me
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:YOUR_EMAIL@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  </p>
-
----
-
-## ✨ About Me
+### ✨ About Me
 
 I am an ambitious and results-driven graduate with a strong theoretical and project-based background in Machine Learning and Data Science. I am passionate about turning complex datasets into measurable results and am seeking a full-time role as a Data Scientist or Machine Learning Engineer where I can contribute new knowledge and grow within a data-driven team.
 
 ---
 
-## 🛠️ Core Competencies
+### 🛠️ Core Competencies
 
 <table>
   <tr>
@@ -65,11 +50,11 @@ I am an ambitious and results-driven graduate with a strong theoretical and proj
 
 ---
 
-## 🚀 Featured Projects
+### 🚀 Featured Projects
 
 ---
 
-## 🎓 Education
+### 🎓 Education
 
 **M.Sc. in Computer Science** (2025 - Present)
 * *DIKU (Department of Computer Science, University of Copenhagen), Denmark*
@@ -78,7 +63,7 @@ I am an ambitious and results-driven graduate with a strong theoretical and proj
 * *DIKU (Department of Computer Science, University of Copenhagen), Denmark*
 
 
-## 📊 GitHub Stats
+### 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Thaloc&show_icons=true&theme=radical&hide_border=true&include_all_commits=true" alt="GitHub Stats" />
