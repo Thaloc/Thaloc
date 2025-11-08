@@ -63,11 +63,19 @@ I am an ambitious and results-driven graduate with a strong theoretical and proj
 * *DIKU (Department of Computer Science, University of Copenhagen), Denmark*
 
 
-### 📊 GitHub Stats
+### 📊 GitHub Stats & Skills
+
+<table align="center">
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=Thaloc&show_icons=true&theme=radical&hide_border=true&include_all_commits=true" alt="GitHub Stats" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thaloc&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+    </td>
+  </tr>
+</table>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Thaloc&show_icons=true&theme=radical&hide_border=true&include_all_commits=true" alt="GitHub Stats" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thaloc&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+  <img src="https://leetcard.jacoblin.cool/Jonasbagger?theme=dark&font=Baloo%202&ext=heatmap" alt="LeetCode Stats" />
 </p>
