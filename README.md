@@ -27,6 +27,7 @@ I am an ambitious and results-driven graduate with a strong theoretical and proj
       <img src="https://img.shields.io/badge/SQL-00758F?style=for-the-badge&logo=sql&logoColor=white" alt="SQL" />
       <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="R" />
       <img src="https://img.shields.io/badge/Haskell-5D4F85?style=for-the-badge&logo=haskell&logoColor=white" alt="Haskell" />
+      <img src="https://img.shields.io/badge/F%23-2B8C44?style=for-the-badge&logo=fsharp&logoColor=white" alt="F#" />
     </td>
     <td align="center">
       <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
